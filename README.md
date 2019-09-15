@@ -1,1 +1,1 @@
-https://nodei.co/npm/hello_test_yangyj.png?downloads=true
+<a href="https://nodei.co/npm/hello_test_yangyj/"><img src="https://nodei.co/npm/hello_test_yangyj.png?downloads=true"></a>
