@@ -1,6 +1,6 @@
 {
   "name": "hello_test_yangyj",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A hello world package",
   "main": "hello.js",
   "scripts": {
